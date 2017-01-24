@@ -1,5 +1,7 @@
 @extends('layout')
 
+@section('title')
+    Welcome!
 @section('content')
 
     <h1>The Welcome Page Goes Here</h1>
